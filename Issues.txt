@@ -1,0 +1,1 @@
+When puttting negative the money still consumes ( FIX Prevent putting negative number)

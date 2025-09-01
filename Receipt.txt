@@ -1,0 +1,11 @@
+_____Receipt_____
+ Total User Order: 12
+ Pig Belly: 12
+ Pig Ham: 0
+ Pig Ribs: 0
+ Cow Brisket: 0
+ Cow Loin: 0
+ Cow Ribs: 0
+ Chicken Breast: 0
+ Chicken Legs: 0
+ Chicken Wings: 0

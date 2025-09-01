@@ -1,0 +1,14 @@
+(Index starts with 0 but it's now starts at 1)
+
+##Data##
+1-8 STOCKS! (1-3 Pig, 4-6 Cow, 7-9 Chicken) Chang-
+10 Empty Line (Nothing!)
+11-19 - PRICE (11-13 Pig, 14-16 Cow, 17-19 Chicken) Final
+
+##User Order##
+1-3 Pig
+4-6 Cow
+7-9 Chicken
+
+###User Info###
+Money
